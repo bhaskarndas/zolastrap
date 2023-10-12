@@ -1,4 +1,4 @@
-base_url = "https://marcodpt.github.io/zolastrap/"
+base_url = "https://chic-sfogliatella-dc720a.netlify.app"
 
 default_language = "en"
 compile_sass = true
